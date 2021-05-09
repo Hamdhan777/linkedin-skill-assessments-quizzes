@@ -948,3 +948,10 @@ def self.get_next_card():
 def self.get_next_card(self):
   # method body goes here
 ```
+
+#### Q80. When would you use a while loop?
+
+- [ ] when you want to run code in one file while code in another file is also running
+- [ ] when you need to run two or more chunks of code at once within the same file
+- [ ] when you want to minimize the use of strings in your code
+- [x] when you want some code to continue running as long as some condition is true
